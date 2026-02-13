@@ -17,5 +17,5 @@ jobs:
       MANIFEST_BRANCH: twrp-11        
       DEVICE_PATH: device/samsung/xcover5        
       DEVICE_NAME: xcover5        
-      MAKEFILE_NAME: twrp_xcover5         
+      MAKEFILE_NAME: omni_xcover5         
       BUILD_TARGET: recovery
